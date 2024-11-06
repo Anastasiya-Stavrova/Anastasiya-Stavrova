@@ -1,4 +1,4 @@
-- 👋 Hi, I am Anastasia Stavrova
+- 👋 Hi, I am Anastasiya Stavrova
 - 🎓 I am currently studying at Tomsk State University
 - 👩‍💻 I am a novice developer
 
