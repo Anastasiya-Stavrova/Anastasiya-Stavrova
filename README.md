@@ -9,13 +9,13 @@
 
 <div align="left">
 
-<div style="width:30%">
+<div width="30%">
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anastasiya-Stavrova&theme=algolia)
 
 </div> 
 
-<div style="width:30%">
+<div width="30%">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Anastasiya-Stavrova&theme=algolia&utcOffset=8)
 
