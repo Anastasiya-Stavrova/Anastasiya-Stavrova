@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=10000&pause=30000&color=000000&center=true&vCenter=true&width=1500&lines=Student+of+the+2nd+year+of+the+TSU+Higher+IT+School%2C+beginning+frontend+developer.+)](https://git.io/typing-svg)
 
 ### :hammer_and_wrench: Languages and Tools :
-- <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/react/react-original-wordmark.svg" width="40px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/react/react-original-wordmark.svg" width="60px"/>
 
 ### 📉 Stats:
 <div align="center">
