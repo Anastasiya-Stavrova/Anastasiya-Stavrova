@@ -5,13 +5,11 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anastasiya-Stavrova&theme=algolia)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anastasiya-Stavrova&theme=algolia)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anastasiya-Stavrova&theme=algolia)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Anastasiya-Stavrova&theme=algolia&utcOffset=8)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anastasiya-Stavrova&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!---
