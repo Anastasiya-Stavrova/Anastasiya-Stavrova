@@ -9,7 +9,7 @@
 
 <div>
 
-<div style="width:60px ; height:60px">
+<div align="left">
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anastasiya-Stavrova&theme=algolia)
 
