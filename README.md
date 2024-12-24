@@ -9,7 +9,7 @@
 ### 📉 Stats:
 <div align="center">
 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anastasiya-Stavrova&theme=algolia" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anastasiya-Stavrova&theme=algolia" width="20px" />
 
   <div align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anastasiya-Stavrova&theme=algolia" />
