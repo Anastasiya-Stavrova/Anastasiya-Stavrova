@@ -5,13 +5,13 @@
 
 <div align="center">
 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anastasiya-Stavrova&theme=algolia)
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anastasiya-Stavrova&theme=algolia" />
 
-</div>
+  <div align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anastasiya-Stavrova&theme=algolia" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Anastasiya-Stavrova&theme=algolia&utcOffset=8"/> 
+  </div>
 
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anastasiya-Stavrova&theme=algolia" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Anastasiya-Stavrova&theme=algolia&utcOffset=8"/> 
 </div>
 
 
