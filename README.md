@@ -7,19 +7,17 @@
 
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anastasiya-Stavrova&theme=algolia)
 
-<div align="left">
+</div>
 
-<div width="30">
+<div align="left">
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anastasiya-Stavrova&theme=algolia)
 
 </div> 
 
-<div width="30">
+<div align="right">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Anastasiya-Stavrova&theme=algolia&utcOffset=8)
-
-</div>
 
 </div>
 
