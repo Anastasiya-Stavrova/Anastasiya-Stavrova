@@ -11,6 +11,8 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Anastasiya-Stavrova&theme=algolia&utcOffset=8)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anastasiya-Stavrova&layout=donut-vertical)](https://github.com/Anastasiya-Stavrova/github-readme-stats)
+
 
 <!---
 AnastasiaStavrova/AnastasiaStavrova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
