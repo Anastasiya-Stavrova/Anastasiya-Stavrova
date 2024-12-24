@@ -7,7 +7,7 @@
 
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anastasiya-Stavrova&theme=algolia)
 
-<div align="right">    
+<div>    
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anastasiya-Stavrova&theme=algolia)
       
