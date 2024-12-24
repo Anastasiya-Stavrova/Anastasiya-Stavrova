@@ -9,17 +9,9 @@
 
 </div>
 
-<div style="display:flex;flex-direction:row;justify-content:center;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anastasiya-Stavrova&theme=algolia" />
+<div style="display:flex; flex-direction:row; justify-content:center; align-items:center;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anastasiya-Stavrova&theme=algolia" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Anastasiya-Stavrova&theme=algolia&utcOffset=8"/> 
-</div>
-
-<div style="display: flex; flex-direction: row;">
-  
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anastasiya-Stavrova&theme=algolia)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Anastasiya-Stavrova&theme=algolia&utcOffset=8)
-
 </div>
 
 
