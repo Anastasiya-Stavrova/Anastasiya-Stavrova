@@ -9,17 +9,11 @@
 
 </div>
 
-<div align="left">
+<div style="display: flex; flex-direction: row;">
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anastasiya-Stavrova&theme=algolia)
 
-</div> 
-
-<div align="right">
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Anastasiya-Stavrova&theme=algolia&utcOffset=8)
-
-</div>
 
 </div>
 
