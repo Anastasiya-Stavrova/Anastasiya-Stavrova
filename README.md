@@ -5,7 +5,7 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 <div style="display: flex;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/github/github-original-wordmark.svg" width="60px" style="margin-right: 20px; display: inline-block;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/github/github-original-wordmark.svg" width="60px" margin-right="20px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/gitlab/gitlab-original-wordmark.svg" width="60px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/git/git-original-wordmark.svg" width="60px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vscode/vscode-original-wordmark.svg" width="60px"/>
