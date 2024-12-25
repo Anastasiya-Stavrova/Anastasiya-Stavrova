@@ -7,6 +7,14 @@
 
 <hr/>
 
+### ⭐ Contributions:
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Anastasiya-Stavrova/Anastasiya-Stavrova/output/github-contribution-grid-snake.svg" alt="snake eating my contributions" />
+</div>
+
+<br/>
+<hr/>
+
 ### :hammer_and_wrench: Languages and Tools :
 <div style="display: flex;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vscode/vscode-original-wordmark.svg" alt="VSCode" width="60px"/>
@@ -59,13 +67,9 @@
   </div>
 </div>
 
-<br/>
-<hr/>
 
-### ⭐ Contributions:
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Anastasiya-Stavrova/Anastasiya-Stavrova/output/github-contribution-grid-snake.svg" alt="snake eating my contributions" />
-</div>
+
+
 
 
 
