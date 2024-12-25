@@ -52,14 +52,19 @@
 
 ### 📉 Stats:
 <div align="center">
-
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anastasiya-Stavrova&theme=algolia" />
-
   <div align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anastasiya-Stavrova&theme=algolia" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Anastasiya-Stavrova&theme=algolia&utcOffset=8"/> 
   </div>
+</div>
 
+<br/>
+<hr/>
+
+### ⭐ Contributions:
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Anastasiya-Stavrova/Anastasiya-Stavrova/output/github-contribution-grid-snake.svg" alt="snake eating my contributions" />
 </div>
 
 
