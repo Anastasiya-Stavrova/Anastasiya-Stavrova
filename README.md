@@ -3,7 +3,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=10000&pause=30000&color=000000&center=true&vCenter=true&width=1500&lines=Student+of+the+2nd+year+of+the+TSU+Higher+IT+School%2C+beginning+frontend+developer.+)](https://git.io/typing-svg)
 
-<br/>
 <hr/>
 
 ### :hammer_and_wrench: Languages and Tools :
