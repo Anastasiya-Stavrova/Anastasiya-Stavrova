@@ -7,7 +7,7 @@
 
 <hr/>
 
-### ⭐ Contributions:
+### ⭐ Contributions to public repositories:
 <div align="center">
   <img src="https://raw.githubusercontent.com/Anastasiya-Stavrova/Anastasiya-Stavrova/output/github-contribution-grid-snake.svg" alt="snake eating my contributions" />
 </div>
