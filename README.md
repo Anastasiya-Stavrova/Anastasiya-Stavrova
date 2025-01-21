@@ -13,7 +13,6 @@
 </div>
 
 <br/>
-<hr/>
 
 ### :hammer_and_wrench: Languages and Tools :
 <table width='100%'>
@@ -111,19 +110,21 @@
   </tr>
 </table>
 
-
 <br/>
-<hr/>
 
-### 📉 Stats:
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anastasiya-Stavrova&theme=algolia" />
-  <div align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anastasiya-Stavrova&theme=algolia" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Anastasiya-Stavrova&theme=algolia&utcOffset=8"/> 
-  </div>
-</div>
-
+### 📉 Statistics:
+<table width="100%">
+  <tr align="center">
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Anastasiya-Stavrova&show_icons=true&theme=algolia&hide=prs,issues" />
+    </td>
+  </tr>
+  <tr align="center">
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=Anastasiya-Stavrova&theme=algolia" />
+    </td>
+  </tr>
+</table>
 
 
 
