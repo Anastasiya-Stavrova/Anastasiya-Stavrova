@@ -62,35 +62,9 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="60" height="60" alt="typescript" />
     </td>
   </tr>
-  <tr>
-    <td align="center" width="80" height="80">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="60" height="60" alt="python" />
-    </td>
-    <td align="center" width="80" height="80">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="60" height="60" alt="c++" />
-    </td>
-    <td align="center" width="80" height="80">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="60" height="60" alt="c#" />
-    </td>
-    <td align="center" width="80" height="80">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="60" height="60" alt="npm" />
-    </td>
-    <td align="center" width="80" height="80">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original-wordmark.svg" width="60" height="60" alt="webpack" />
-    </td>
-    <td align="center" width="80" height="80">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="60" height="60" alt="vite" />
-    </td>
-    <td align="center" width="80" height="80">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="60" height="60" alt="react" />
-    </td>
-  </tr>
-  <tr>
+    <tr>
     <td align="center" width="80" height="80">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" width="60" height="60" alt="next" />
-    </td>
-    <td align="center" width="80" height="80">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" width="60" height="60" alt="bootstrap" />
     </td>
     <td align="center" width="80" height="80">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-plain-wordmark.svg" width="60" height="60" alt="tailwindcss" />
@@ -106,6 +80,17 @@
     </td>
     <td align="center" width="80" height="80">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg" width="60" height="60" alt="mongoose" />
+    </td>
+    <td align="center" width="80" height="80">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original-wordmark.svg" width="60" height="60" alt="webpack" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="80" height="80">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="60" height="60" alt="vite" />
+    </td>
+    <td align="center" width="80" height="80">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="60" height="60" alt="react" />
     </td>
   </tr>
 </table>
