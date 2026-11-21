@@ -2,11 +2,11 @@ name: Update skyline
 
 on:
   schedule:
-    - cron: "0 * * * *"     # раз в час
-  workflow_dispatch:         # можно запустить вручную во вкладке Actions
+    - cron: "0 * * * *"    
+  workflow_dispatch:      
   push:
     branches: [main]
-    paths: ["scripts/generate_skyline.py"]
+    paths: ["scripts/generate_skyline.py", ".github/workflows/skyline.yml"]
 
 permissions:
   contents: write
