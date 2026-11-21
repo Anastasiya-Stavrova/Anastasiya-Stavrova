@@ -1,0 +1,33 @@
+name: Update skyline
+
+on:
+  schedule:
+    - cron: "0 * * * *"     # раз в час
+  workflow_dispatch:         # можно запустить вручную во вкладке Actions
+  push:
+    branches: [main]
+    paths: ["scripts/generate_skyline.py"]
+
+permissions:
+  contents: write
+
+jobs:
+  skyline:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Generate skyline.svg
+        run: python3 scripts/generate_skyline.py
+
+      - name: Commit if changed
+        run: |
+          if git diff --quiet -- skyline.svg; then
+            echo "No changes"
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add skyline.svg
+            git commit -m "Update skyline"
+            git push
+          fi
