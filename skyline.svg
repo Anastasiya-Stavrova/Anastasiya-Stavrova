@@ -3,7 +3,7 @@
 <title id="t">Анастасия — фронтенд-разработчик, Томск</title>
 <desc id="d">Город, который выглядит как сейчас в Томске: ночь.</desc>
 <style>.tw{animation:tw 4s ease-in-out infinite}@keyframes tw{0%,100%{opacity:.25}50%{opacity:1}}.bl{animation:bl 6s ease-in-out infinite}@keyframes bl{0%,88%,100%{opacity:1}93%{opacity:.1}}.cm{animation:cm 12s linear infinite;opacity:0}@keyframes cm{0%{transform:translate(-120px,-20px);opacity:0}6%{opacity:1}26%{transform:translate(1000px,180px);opacity:0}100%{transform:translate(1000px,180px);opacity:0}}@media (prefers-reduced-motion:reduce){.tw,.bl,.cm{animation:none}}</style>
-<defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0b1030"/><stop offset="1" stop-color="#1b2160"/></linearGradient><radialGradient id="sg"><stop offset="0" stop-color="#fde047" stop-opacity=".55"/><stop offset="1" stop-color="#fde047" stop-opacity="0"/></radialGradient><radialGradient id="mg"><stop offset="0" stop-color="#c7d2fe" stop-opacity=".4"/><stop offset="1" stop-color="#c7d2fe" stop-opacity="0"/></radialGradient><clipPath id="r"><rect width="900" height="320" rx="16"/></clipPath></defs>
+<defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1a1b4b"/><stop offset="1" stop-color="#3b3b7a"/></linearGradient><radialGradient id="sg"><stop offset="0" stop-color="#fde047" stop-opacity=".55"/><stop offset="1" stop-color="#fde047" stop-opacity="0"/></radialGradient><radialGradient id="mg"><stop offset="0" stop-color="#c7d2fe" stop-opacity=".4"/><stop offset="1" stop-color="#c7d2fe" stop-opacity="0"/></radialGradient><clipPath id="r"><rect width="900" height="320" rx="16"/></clipPath></defs>
 <g clip-path="url(#r)">
 <rect width="900" height="320" fill="url(#sky)"/>
 <g opacity="1.00" fill="#fff">
@@ -79,9 +79,9 @@
 <circle class="tw" cx="553" cy="150" r="1.1" style="animation-delay:-3.2s"/>
 </g>
 <g class="cm"><line x1="0" y1="0" x2="-70" y2="-14" stroke="#fff" stroke-width="1.6" stroke-linecap="round"/></g>
-<circle cx="382" cy="77" r="64" fill="url(#mg)"/>
-<circle cx="382" cy="77" r="16" fill="#eef2ff"/>
-<g fill="#181f4c">
+<circle cx="762" cy="192" r="64" fill="url(#mg)"/>
+<circle cx="762" cy="192" r="16" fill="#eef2ff"/>
+<g fill="#2a2d5a">
 <rect x="-20" y="208" width="76" height="94"/>
 <rect x="37" y="174" width="64" height="128"/>
 <rect x="79" y="176" width="63" height="126"/>
