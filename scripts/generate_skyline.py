@@ -1,19 +1,14 @@
-#!/usr/bin/env python3
-
 import math
 import random
 import sys
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
-# ---------------- настройки ----------------
 NAME = "Анастасия"
 ROLE = "Фронтенд-разработчик"
 CITY = "Томск"
-CITY_PREP = "Томске"          # «сейчас в Томске»
-TZ_NAME = "Asia/Tomsk"        # часовой пояс города
-TZ_FALLBACK_HOURS = 7         # если в системе нет базы часовых поясов
-# --------------------------------------------
+TZ_NAME = "Asia/Tomsk"       
+TZ_FALLBACK_HOURS = 7       
 
 W, H = 900, 320
 GROUND = 18
@@ -91,7 +86,7 @@ def build(hour):
     add(f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="{W}" height="{H}" '
         f'role="img" aria-labelledby="t d">')
     add(f'<title id="t">{NAME} — {ROLE.lower()}, {CITY}</title>')
-    add(f'<desc id="d">Город, который выглядит как сейчас в {CITY_PREP}: {phase_word(hour, n)}.</desc>')
+    add(f'<desc id="d">{CITY}: {phase_word(hour, n)}. Город меняется в зависимости от времени суток.</desc>')
     add("<style>"
         ".tw{animation:tw 4s ease-in-out infinite}"
         "@keyframes tw{0%,100%{opacity:.25}50%{opacity:1}}"
@@ -177,9 +172,7 @@ def build(hour):
     add(f'<g fill="{ink}" font-family="Segoe UI, Helvetica, Arial, sans-serif">')
     add(f'<text x="40" y="78" font-size="54" font-weight="700" letter-spacing="-1">{NAME}</text>')
     add(f'<text x="42" y="112" font-size="22">{ROLE}</text>')
-    add(f'<text x="42" y="138" font-size="17" opacity=".8">{CITY}</text>')
-    add(f'<text x="{W - 40}" y="46" font-size="15" text-anchor="end" opacity=".85">'
-        f'сейчас в {CITY_PREP} · {phase_word(hour, n)}</text>')
+    add(f'<text x="42" y="138" font-size="17" opacity=".8">{CITY} · {phase_word(hour, n)}</text>')
     add("</g>")
     add("</g></svg>")
     return "\n".join(out)
